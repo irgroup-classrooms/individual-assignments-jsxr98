@@ -31,7 +31,7 @@ Here’s my personal markdown cheat sheet for quick reference throughout the sem
 | Ordered List          | `1. First item`                 | 1. First item                                |
 | Inline Code           | `` `print("Hello World!")` ``   | `print("Hello World!")`                      |
 | Block of Code         | ```` ```python \n print() ``` ````| Python code block                           |
-| Blockquote            | `> This is a quote.`            | > This is a quote.                           |
+| Blockquote            | `> This is a quote.`            | Can´t preview                         |
 | Horizontal Rule       | `---`                           | ---                                          |
 
 
