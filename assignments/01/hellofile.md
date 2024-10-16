@@ -24,14 +24,15 @@ Markdown is a lightweight markup language that allows you to format text easily,
 5. **Images**: Similar to links, but with an exclamation mark before:
    - `![Alt text](image URL)`.
 
-6. **Code**: Use backticks (\`) to highlight inline code: `\`code\``.
+6. **Code**: Use backticks (\`) to highlight inline code: `code`.
    - For blocks of code, use triple backticks:
      ```
      code block
      ```
 
 7. **Blockquotes**: Use `>` to create a blockquote.
-   - Example: `> This is a quote.`
+   - Example:
+     >This is a quote.
 
 8. **Horizontal Lines**: Use three dashes to create a horizontal line.
    - `---` becomes:
