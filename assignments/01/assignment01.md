@@ -81,4 +81,3 @@ A simple data table to keep track of various data science topics:
 
 
 That’s it for now! I’m excited to update this file throughout the semester as I learn more. 🚀🎓
-```
