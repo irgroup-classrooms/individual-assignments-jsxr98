@@ -91,7 +91,7 @@ Similar to links, but with an exclamation mark `!` before:
 
 This renders an image (if the link is valid). Example:
 
-![Example Image](https://via.placeholder.com/150)
+![Cookies](https://upload.wikimedia.org/wikipedia/commons/b/b9/Chocolate_Chip_Cookies_-_kimberlykv.jpg)
 
 ### Code
 To display code snippets, use backticks:
