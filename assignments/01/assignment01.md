@@ -26,13 +26,13 @@ Here’s my personal markdown cheat sheet for quick reference throughout the sem
 | Bold Text             | `**Bold Text**`                 | **Bold Text**                                |
 | Italic Text           | `*Italic Text*`                 | *Italic Text*                                |
 | Link                  | `[GitHub](https://github.com)`  | [GitHub](https://github.com)                 |
-| Image                 | `![Alt text](image_url)`        | ![Alt text](image_url)                       |
-| Unordered List        | `- Item 1`                      | - Item 1                                     |
-| Ordered List          | `1. First item`                 | 1. First item                                |
+| Image                 | `![Alt text](image_url)`        | ![Cookies](https://upload.wikimedia.org/wikipedia/commons/b/b9/Chocolate_Chip_Cookies_-_kimberlykv.jpg)                       |
+| Unordered List        | `- Item 1`                      | Can´t preview                                   |
+| Ordered List          | `1. First item`                 | Can´t preview                                 |
 | Inline Code           | `` `print("Hello World!")` ``   | `print("Hello World!")`                      |
-| Block of Code         | ```` ```python \n print() ``` ````| Python code block                           |
+| Block of Code         | ```` ```python \n print() ``` ````| Can´t preview                         |
 | Blockquote            | `> This is a quote.`            | Can´t preview                         |
-| Horizontal Rule       | `---`                           | ---                                          |
+| Horizontal Rule       | `---`                           | Can´t preview                                         |
 
 
 
@@ -65,7 +65,7 @@ greet()
 
 
 ### 🔗 **2. Link to My GitHub Profile**  
-[Check out my GitHub Profile](https://github.com/jannes-schreiner) to explore more of my projects and contributions.
+[Check out my GitHub Profile](https://github.com/jsxr98) to explore more of my projects and contributions.
 
 
 
