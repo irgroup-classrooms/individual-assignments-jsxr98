@@ -37,7 +37,9 @@ Here’s my personal markdown cheat sheet for quick reference throughout the sem
 
 
 ## 💡 **Inspiring Quote**  
-_"Data is a precious thing and will last longer than the systems themselves."_ – Tim Berners-Lee  
+>_"Data is a precious thing and will last longer than the systems themselves."_
+> – Tim Berners-Lee
+
 This quote inspires me to focus on the enduring value of data and why organizing and modeling it matters.
 
 
