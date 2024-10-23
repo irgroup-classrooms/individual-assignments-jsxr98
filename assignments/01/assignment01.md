@@ -43,7 +43,7 @@ This quote inspires me to focus on the enduring value of data and why organizing
 
 
 ## 🧑‍💻 **Verbatim Code Snippet**  
-Here’s a simple Python snippet I’m already familiar with. It prints "Hello, World!" to the console:
+Here’s a simple Python snippet I’m already familiar with.
 
 ```python
 # This program calculates how much coffee you need to survive the semester! ☕️
